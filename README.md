@@ -101,3 +101,5 @@ Update the HTML file so it matches the provided image:
 <center>🟢 - Complete workshop (100%) - 🟢</center>
 
 ---
+
+CHANGES FOR DEMO!
